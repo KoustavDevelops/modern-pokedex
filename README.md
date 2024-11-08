@@ -27,7 +27,7 @@ A sleek, interactive web-based Pokédex that brings your favorite Pokémon to li
 
 ## ✨ Live Demo
 
-Check out the live demo: [Modern Pokédex](https://koustavdeveloper.github.io/modern-pokedex/)
+Check out the live demo: [Modern Pokédex](https://koustavdevelops.github.io/modern-pokedex/)
 
 ## 🚀 Getting Started
 
